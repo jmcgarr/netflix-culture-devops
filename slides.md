@@ -2,115 +2,119 @@ footer: © J. Michael McGarr, 2015
 slidenumbers: false
 
 # [fit] Beyond the culture deck:
-## [fit] *What you don't already know about Netflix*
+###  _**What you don't already**_
+###  _**know about Netflix**_
 
-#### Mike McGarr <br> *[@SonOfGarr](http://twitter.com/SonOfGarr)*
+#### Mike McGarr <br> **_[@SonOfGarr](http://twitter.com/SonOfGarr)_**
 
 ![](images/nflx-hq-2.JPG)
 
 ---
-
 ### two years ago...
 
 ---
-
 ## Director of DevOps 
 
 ![fit inline](images/blackboard-learn.jpg)
 
+^
+- led the tools team
+- migrate to continuous delivery
+- introduce lean & kanban
+- refine test automation
+
 ---
-
-- development tools team
-- lean & kanban
-- test automation
-- Continuous delivery
-
----
-
 ![](images/nflx-hq.jpg)
 
----
+^ 
+- got the opportunity of a lifetime
+- joined the Netflix EngTools team 
 
-### what can you *learn* from Netflix?
+---
+What makes Netflix so special?
+
+<add image>
+
+---
+### what enterprise can learn from Netflix
 
 ![](images/horse.jpg)
 
-^ what makes Netflix special?
-^ https://commons.wikimedia.org/wiki/File:American_quarter_horse.jpg
-
 ---
-
 ![fit](images/nflx-culture.png)
 
-^ mention it's importance to Silicon Valley
+^ let's start with the Culture deck
 
---- 
- 
-> It may well be the most important document ever to come out of the Valley.
+---  
+> It may well be the most important document ever to come out of the Valley.[^1]
 -- Sheryl Sandberg
 
-^ http://www.gq.com/story/netflix-founder-reed-hastings-house-of-cards-arrested-development
+![right](images/Sheryl_Sandberg.jpg)
+
+[^1]: [GQ Magazine, 2013](http://www.gq.com/story/netflix-founder-reed-hastings-house-of-cards-arrested-development)
 
 ---
+### Our Constitution
 
-- high performance
-- freedom and responsibility
-- context, not control
-- highly aligned, loosely coupled
+![](images/constitution-signing.jpg)
+
+^ - we constantly refer to it
+- there are sometimes differing interpretations
 
 ---
-
-## Freedom *and* 
-## Responsibility
-
+### Freedom AND 
+### Responsibility
 ![](images/nflx-hq-2.JPG)
 
-^ 
+---
+### Freedom
+
+![](images/eagle-flag.jpg)
 
 ---
+### Responsibility
 
-### Those who are *responsible*, 
-### have the *freedom*
-
-^ if you want *freedom*, you must take the *responsibility*
+![](images/guard.jpg)
 
 ---
-
-### Engineering Tools
-### *is responsible for*
-### enabling cloud deployments
-
-^ this is the business need
-^ as a result, we have the freedom to design a solution
+Not just engineers -- everybody
+Story: NEC -- head of legal
 
 ---
-
-team responsibility 
-
-^ teams are responsibility for delivering successful products
-^ focus on results
-
----
-
-**Q:** How often do you/your team have to *compensate* from another team's *actions/decisions*?
-
----
-
-## Context, 
-## *not* Control
-
-![](images/nflx-hq-2.JPG)
-
-^ 
-
----
-
 ## "you *can't* do that"
 #### (something you rarely hear at Netflix)
 
 ---
+![fit](images/paved-road.png)
 
-# The Netflix way
+---
+
+If you want more _**freedom**_, 
+you must take on more _**responsibility**_.
+
+---
+### _**Question:**_
+### Do those with 
+## the _**responsibility**_, 
+### also have 
+## the _**freedom**_?
+
+---
+### Context, 
+### not Control
+
+![](images/nflx-hq-2.JPG)
+
+^ manage through context
+provide employees right context 
+
+---
+Managers focus on the _**'what'**_
+Engineers focus on the _**'how'**_
+
+---
+
+# Our deployment best practices
 
 - immutable server pattern
 - register with Eureka
@@ -126,6 +130,10 @@ team responsibility
 
 ---
 
+we don't
+
+---
+
 Make doing the right thing easy
 
 *(EngTools Paved Road)*
@@ -137,67 +145,98 @@ provide fast feedback to outliers
 *(Conformity Monkey)*
 
 ---
+_**Question:**_
+### Do you trust your employee to make the 
+### [fit] _**right decision**_, 
+### given the 
+### [fit] _**right Business context**_?
 
-Allow failure
-
-*(F&R)*
-
----
-
-Q: Do you think your engineers will make the *right decision*, given the *right information*?
 
 ---
+### Centralized teams
+![](images/nflx-hq-2.JPG)
 
-## Process 
+^ an outcome of F&R are product teams
 
+---
+![](images/river.jpg)
+
+^ deploying software is like crossing a river
+
+---
+![](images/ferryman.jpg)
+
+^ highly coupled
+
+---
+![](images/ferryman.jpg)
+### centralized _**Ops or QA**_ teams
+
+---
+![](images/bridge.jpg)
+
+---
+![](images/bridge.jpg)
+### centralized _**Tools**_ teams
+
+---
+Centralized teams _**enable**_ product teams
+
+---
+### _**No**_ ops team
+### _**No**_ QA team
+
+---
+- we don't own your _**code**_
+- we don't own your _**builds**_
+- we don't own your _**pipelines**_
+- we don't own your _**instances**_
+
+---
+### _**Question:**_
+### How coupled are your 
+### [fit] _**centralized teams**_ 
+### to your 
+### [fit] _**product teams**_?
+
+---
+### process
 ![](images/nflx-hq-2.JPG)
 
 ---
-
-We have an *allergic reaction* to process
-
----
-
 ![](images/nflx-culture-process.png)
 
 ---
-
-### *(what people actually hear)*
-## [fit] No process, only Freedom!
+Netflix has no _**process**_?
 
 ---
-
-## Use process to solve problems!
-### *(Then aggressively abandon it wherever you can)*
+Immune system against unnecessary process
 
 ---
-
-Tools and automation are a form of process
-Teams decide how much process they want
+process allergy
 
 ---
-
-Q: 
+give an example
 
 ---
+# [fit] Use Process to solve problems
+### [fit] _**(Then aggressively abandon it wherever you can)**_
 
-## Feedback & 
-## Collaboration
-
+---
+### Communication
 ![](images/nflx-hq-2.JPG)
 
 ---
-
-Do your *VPs* 
-get feedback from *engineers*?
-
----
-
-# one on ones
+- No brilliant jerks
+- Strong opinions, weakly held
+- everybody is responsible for something
 
 ---
+One on Ones
+(show conference room pic)
 
-## memos
+---
+Memos
 
 ![right](images/nflx-memo.png)
 
@@ -205,36 +244,37 @@ get feedback from *engineers*?
 ^ communicate complex ideas
 
 ---
-
-## team meetings
-
-^ team X is coming to our team all hands to talk about Y
+meeting hygiene
 
 ---
-
-## Trust
-
+### feedback
 ![](images/nflx-hq-2.JPG)
 
 ---
 
+story about the VP
+
+---
+Who's responsible?
+Is it direct?
+Is it immediate?
+Is it constructive?
+Is it welcomed?
+
+---
+### Waste
+![](images/nflx-hq-2.JPG)
+
+---
+Innovation requires waste
+
+---
+### Where do you go?
+![](images/nflx-hq-2.JPG)
+
+---
+
+
+
+---
 Questions?
-
----
-
-# BONUS Section
-
----
-# [fit] *Management* @ Netflix
-
----
-
-## *Managers* are responsible for...
-
-1. attract and retain *top talent*
-2. provide *context* to team
-3. maintain a *strategic vision*
-
-----
-
-Innovation
