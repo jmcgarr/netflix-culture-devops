@@ -6,4 +6,3 @@
 - bridge - https://commons.wikimedia.org/wiki/File:SidneyLanierBridgeConstruction.jpg
 - river - https://commons.wikimedia.org/wiki/File:Palouse-River-Mouth.JPG
 - guard - https://commons.wikimedia.org/wiki/File:Guard_of_Buckingham_Palace.JPG
-- 

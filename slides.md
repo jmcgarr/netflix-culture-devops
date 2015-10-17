@@ -5,12 +5,12 @@ slidenumbers: false
 ###  _**What you don't already**_
 ###  _**know about Netflix**_
 
-#### Mike McGarr <br> **_[@SonOfGarr](http://twitter.com/SonOfGarr)_**
+#### Mike McGarr <br> **_[@SonOfGarr](http://twitter.com/SonOfGarr)_** <br> _**[MikeMcGarr.com](http://www.mikemcgarr.com)**_
 
 ![](images/nflx-hq-2.JPG)
 
 ---
-### two years ago...
+### a year and a half ago...
 
 ---
 ## Director of DevOps 
@@ -31,14 +31,22 @@ slidenumbers: false
 - joined the Netflix EngTools team 
 
 ---
-What makes Netflix so special?
+## What makes Netflix 
+## so special?
 
-<add image>
+![fit](images/nflx-screen.jpg)
 
 ---
-### what enterprise can learn from Netflix
+### what enterprises can learn from Netflix
 
 ![](images/horse.jpg)
+
+---
+
+![](images/nflx-lifestyle-2.jpg)
+
+^ we are in the entertainment industry
+we don't have the same restrictions
 
 ---
 ![fit](images/nflx-culture.png)
@@ -77,18 +85,36 @@ What makes Netflix so special?
 ![](images/guard.jpg)
 
 ---
-Not just engineers -- everybody
+## You _**build**_ it
+## You _**own**_ it
+
+---
+
+# _**F&R**_ 
+## not just  
+## for Engineers
+![](images/nflx-hq-7.JPG)
+
+^ Not just engineers -- everybody
 Story: NEC -- head of legal
 
 ---
-## "you *can't* do that"
+## "you _**can't**_ do that"
 #### (something you rarely hear at Netflix)
+
+---
+
+# Engineering Tools
+
+^ this also applies to engtools
+we want to move fast too
 
 ---
 ![fit](images/paved-road.png)
 
----
+^ we build self-service
 
+---
 If you want more _**freedom**_, 
 you must take on more _**responsibility**_.
 
@@ -98,6 +124,9 @@ you must take on more _**responsibility**_.
 ## the _**responsibility**_, 
 ### also have 
 ## the _**freedom**_?
+
+---
+alignment?
 
 ---
 ### Context, 
@@ -114,7 +143,7 @@ Engineers focus on the _**'how'**_
 
 ---
 
-# Our deployment best practices
+# Cloud Deployments should...
 
 - immutable server pattern
 - register with Eureka
@@ -126,31 +155,33 @@ Engineers focus on the _**'how'**_
 
 ---
 
-## [fit] how do we ensure *compliance*?
+## [fit] how do we ensure _**compliance**_?
 
 ---
 
 we don't
 
 ---
+### Make doing the right thing easy
 
-Make doing the right thing easy
+![fit](images/spinnaker.png)
 
-*(EngTools Paved Road)*
-
----
-
-provide fast feedback to outliers
-
-*(Conformity Monkey)*
+^ EngTools Paved Road
 
 ---
-_**Question:**_
-### Do you trust your employee to make the 
-### [fit] _**right decision**_, 
-### given the 
-### [fit] _**right Business context**_?
 
+## provide fast feedback
+
+![right 50%](images/conformity-monkey.png)
+
+^ Conformity Monkey
+
+---
+### _**Question:**_
+### If you give your employees the
+### [fit] _**right business context**_
+### can you trust them to make the 
+### [fit] _**right decisions**_?
 
 ---
 ### Centralized teams
@@ -216,9 +247,6 @@ Immune system against unnecessary process
 process allergy
 
 ---
-give an example
-
----
 # [fit] Use Process to solve problems
 ### [fit] _**(Then aggressively abandon it wherever you can)**_
 
@@ -227,54 +255,76 @@ give an example
 ![](images/nflx-hq-2.JPG)
 
 ---
-- No brilliant jerks
-- Strong opinions, weakly held
-- everybody is responsible for something
+### feedback
 
 ---
-One on Ones
-(show conference room pic)
+## Collaborative culture
+### *(No brilliant jerks)*
+
+^ Strong opinions, weakly held
 
 ---
-Memos
+## One on Ones
+
+![left](images/nflx-cr-3.JPG)
+
+---
+## Memos
 
 ![right](images/nflx-memo.png)
 
 ^ share business context
-^ communicate complex ideas
+communicate complex ideas
+greatly benefits introverts and internal processors
 
 ---
-meeting hygiene
+### Team Meetings
 
----
-### feedback
-![](images/nflx-hq-2.JPG)
-
----
-
-story about the VP
-
----
-Who's responsible?
-Is it direct?
-Is it immediate?
-Is it constructive?
-Is it welcomed?
+^ share context
 
 ---
 ### Waste
 ![](images/nflx-hq-2.JPG)
 
 ---
-Innovation requires waste
+
+## Eliminate waste
+
+![inline](images/value-stream.png)
 
 ---
-### Where do you go?
+### [fit] _**waste**_
+### is a necessary byproduct of 
+### [fit] _**innovation**_
+
+---
+### _**Question:**_
+### [fit] _**How tolerant**_ 
+### is your culture of 
+### [fit] _**duplicate or throwaway**_
+### efforts?
+
+---
+### Wrapping it up
 ![](images/nflx-hq-2.JPG)
 
 ---
+# Takeaways
+1. Those with *responsibility* should have the *freedom*
+2. High performers do the *right thing*, given the *right context*
+3. Centralized teams *enable* product teams
+4. Use *process* to solve problems, then abandon it
+5. Innovation generates *waste*
 
+---
+## What I would love to hear
 
+- stories of *bottom-up change*
+- perspectives on *culture* (and sub-cultures)
+- users of *Netflix OSS*
 
 ---
 Questions?
+
+---
+### _**Mike McGarr**_ <br> [@SonOfGarr](http://twitter.com/SonOfGarr) <br> [MikeMcGarr.com](http://www.mikemcgarr.com)
