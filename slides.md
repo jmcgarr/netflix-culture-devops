@@ -36,17 +36,28 @@ slidenumbers: false
 
 ![fit](images/nflx-screen.jpg)
 
+^ 
+- wanted to understand how they work
+- contribute to the famous culture
+- what can I learn about high performing cultures
+- can't share everything
+
+---
+# [fit] Beyond the culture deck:
+###  _**What you don't already**_
+###  _**know about Netflix**_
+
+#### Mike McGarr <br> **_[@SonOfGarr](http://twitter.com/SonOfGarr)_** <br> _**[MikeMcGarr.com](http://www.mikemcgarr.com)**_
+
+![](images/nflx-hq-2.JPG)
+
 ---
 ### what enterprises can learn from Netflix
 
 ![](images/horse.jpg)
 
----
-
-![](images/nflx-lifestyle-2.jpg)
-
-^ we are in the entertainment industry
-we don't have the same restrictions
+^ avoid cargo cult'ing
+share what is actionable
 
 ---
 ![fit](images/nflx-culture.png)
@@ -84,42 +95,32 @@ we don't have the same restrictions
 
 ![](images/guard.jpg)
 
+^ don't forget the AND
+
 ---
 ## You _**build**_ it
 ## You _**own**_ it
 
 ---
 
-# _**F&R**_ 
-## not just  
-## for Engineers
-![](images/nflx-hq-7.JPG)
-
-^ Not just engineers -- everybody
-Story: NEC -- head of legal
-
----
-## "you _**can't**_ do that"
-#### (something you rarely hear at Netflix)
-
----
-
 # Engineering Tools
 
-^ this also applies to engtools
-we want to move fast too
+^ 
+- let's look at an example
+- this also applies to engtools
 
 ---
 ![fit](images/paved-road.png)
 
-^ we build self-service
+^ 
+- self-service
+- we build it, we own it
 
 ---
 If you want more _**freedom**_, 
 you must take on more _**responsibility**_.
 
 ---
-### _**Question:**_
 ### Do those with 
 ## the _**responsibility**_, 
 ### also have 
@@ -143,7 +144,7 @@ Engineers focus on the _**'how'**_
 
 ---
 
-# Cloud Deployments should...
+# Our Cloud services should...
 
 - immutable server pattern
 - register with Eureka
@@ -177,7 +178,6 @@ we don't
 ^ Conformity Monkey
 
 ---
-### _**Question:**_
 ### If you give your employees the
 ### [fit] _**right business context**_
 ### can you trust them to make the 
@@ -198,6 +198,7 @@ we don't
 ![](images/ferryman.jpg)
 
 ^ highly coupled
+somebody else's responsibility
 
 ---
 ![](images/ferryman.jpg)
@@ -210,21 +211,24 @@ we don't
 ![](images/bridge.jpg)
 ### centralized _**Tools**_ teams
 
+^ teams take ownership of planning their deploy
+
 ---
 Centralized teams _**enable**_ product teams
+
+---
+_**Engineering**_ Tools
+_**Security**_ Engineering
+_**Performance**_ Engineering
+_**Traffic and Chaos**_ Engineering
+_**Insight**_ Engineering 
+_**Platform**_ Engineering
 
 ---
 ### _**No**_ ops team
 ### _**No**_ QA team
 
 ---
-- we don't own your _**code**_
-- we don't own your _**builds**_
-- we don't own your _**pipelines**_
-- we don't own your _**instances**_
-
----
-### _**Question:**_
 ### How coupled are your 
 ### [fit] _**centralized teams**_ 
 ### to your 
@@ -241,10 +245,15 @@ Centralized teams _**enable**_ product teams
 Netflix has no _**process**_?
 
 ---
-Immune system against unnecessary process
+Immune system against _**unnecessary**_ process
 
 ---
 process allergy
+
+---
+### our process
+
+![right fit](images/wallboard.jpg)
 
 ---
 # [fit] Use Process to solve problems
@@ -256,6 +265,9 @@ process allergy
 
 ---
 ### feedback
+
+^ candor
+fast feedback
 
 ---
 ## Collaborative culture
@@ -269,28 +281,28 @@ process allergy
 ![left](images/nflx-cr-3.JPG)
 
 ---
-## Memos
-
-![right](images/nflx-memo.png)
-
-^ share business context
-communicate complex ideas
-greatly benefits introverts and internal processors
-
----
-### Team Meetings
-
-^ share context
+_**Managers meet**_ so engineers don't have to
 
 ---
 ### Waste
 ![](images/nflx-hq-2.JPG)
 
 ---
-
 ## Eliminate waste
 
 ![inline](images/value-stream.png)
+
+---
+# Waste
+
+- duplicate efforts
+- throwaway code
+- system rewrites
+
+---
+### Engineering Tools
+### vs.
+### Edge Developer Experience
 
 ---
 ### [fit] _**waste**_
@@ -298,33 +310,38 @@ greatly benefits introverts and internal processors
 ### [fit] _**innovation**_
 
 ---
-### _**Question:**_
 ### [fit] _**How tolerant**_ 
 ### is your culture of 
 ### [fit] _**duplicate or throwaway**_
 ### efforts?
 
 ---
-### Wrapping it up
+### Takeaways
 ![](images/nflx-hq-2.JPG)
 
 ---
-# Takeaways
-1. Those with *responsibility* should have the *freedom*
-2. High performers do the *right thing*, given the *right context*
-3. Centralized teams *enable* product teams
-4. Use *process* to solve problems, then abandon it
-5. Innovation generates *waste*
+### Those with _**responsibility**_ 
+### should have the _**freedom**_
 
 ---
-## What I would love to hear
-
-- stories of *bottom-up change*
-- perspectives on *culture* (and sub-cultures)
-- users of *Netflix OSS*
+### [fit] High performers will do the _**right thing**_, 
+### given the _**right context**_
 
 ---
-Questions?
+### Centralized teams 
+### _**enable**_
+### product teams
 
 ---
-### _**Mike McGarr**_ <br> [@SonOfGarr](http://twitter.com/SonOfGarr) <br> [MikeMcGarr.com](http://www.mikemcgarr.com)
+### Use _**process**_ to solve problems, 
+### then abandon it
+
+---
+### Innovation generates _**waste**_
+
+---
+# Questions?
+
+### _**Mike McGarr**_ 
+### [@SonOfGarr](http://twitter.com/SonOfGarr)
+### [MikeMcGarr.com](http://www.mikemcgarr.com)
