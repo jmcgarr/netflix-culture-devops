@@ -1,4 +1,4 @@
-footer: © J. Michael McGarr, 2015
+footer: © J. Michael McGarr, 2016
 slidenumbers: false
 
 # [fit] Beyond the culture deck:
@@ -10,7 +10,7 @@ slidenumbers: false
 ![](images/nflx-hq-2.JPG)
 
 ---
-### a year and a half ago...
+### two years ago...
 
 ---
 ## Director of DevOps 
@@ -52,12 +52,13 @@ slidenumbers: false
 ![](images/nflx-hq-2.JPG)
 
 ---
-### what enterprises can learn from Netflix
+### what you can learn from Netflix
 
 ![](images/horse.jpg)
 
-^ avoid cargo cult'ing
-share what is actionable
+^ - avoid cargo culting
+- share what is actionable
+- questions to ask of your own culture
 
 ---
 ![fit](images/nflx-culture.png)
@@ -79,23 +80,28 @@ share what is actionable
 
 ^ - we constantly refer to it
 - there are sometimes differing interpretations
+- cultural self-awareness
 
 ---
 ### Freedom AND 
 ### Responsibility
 ![](images/nflx-hq-2.JPG)
 
+^ - most notable and attractive portion of our culture
+
 ---
 ### Freedom
 
 ![](images/eagle-flag.jpg)
+
+^ - people love freedom
 
 ---
 ### Responsibility
 
 ![](images/guard.jpg)
 
-^ don't forget the AND
+^ - don't forget the AND
 
 ---
 ## You _**build**_ it
@@ -115,6 +121,7 @@ share what is actionable
 ^ 
 - self-service
 - we build it, we own it
+- Our Paved Road
 
 ---
 If you want more _**freedom**_, 
@@ -129,30 +136,34 @@ you must take on more _**responsibility**_.
 ---
 alignment?
 
+^ - with so much freedom, who ensures alignment?
+
 ---
 ### Context, 
 ### not Control
 
 ![](images/nflx-hq-2.JPG)
 
-^ manage through context
-provide employees right context 
+^ - manage through context
+- provide employees the right context 
+- high trust culture
 
 ---
 Managers focus on the _**'what'**_
 Engineers focus on the _**'how'**_
 
+^ - I am responsible for priorities & strategy
+- engineers are responsible for design/impl
+- freedom is not total
+
 ---
 
-# Our Cloud services should...
+# Cloud deployment lessons
 
 - immutable server pattern
 - register with Eureka
 - red black deployments
 - rule of 3
-
-^ *Don't* prevent mistakes
-^ *Do* provide them all the info they need to make the right decision
 
 ---
 
@@ -162,12 +173,16 @@ Engineers focus on the _**'how'**_
 
 we don't
 
+^ - Don't prevent mistakes
+- Do provide them all the info they need to make the right decision
+
 ---
 ### Make doing the right thing easy
 
 ![fit](images/spinnaker.png)
 
-^ EngTools Paved Road
+^ - EngTools Paved Road
+- strong focus on UX for internal tools
 
 ---
 
@@ -175,7 +190,7 @@ we don't
 
 ![right 50%](images/conformity-monkey.png)
 
-^ Conformity Monkey
+^ - Conformity Monkey
 
 ---
 ### If you give your employees the
@@ -183,38 +198,51 @@ we don't
 ### can you trust them to make the 
 ### [fit] _**right decisions**_?
 
+^ - Not just a Netflix thing
+- Damon Edwards and the show Carrier
+
 ---
 ### Centralized teams
 ![](images/nflx-hq-2.JPG)
 
-^ an outcome of F&R are product teams
+^ - an outcome of F&R are product teams
 
 ---
 ![](images/river.jpg)
 
-^ deploying software is like crossing a river
+^ - deploying software is like crossing a river
 
 ---
 ![](images/ferryman.jpg)
 
-^ highly coupled
-somebody else's responsibility
+^ - highly coupled
+- somebody else's responsibility
 
 ---
 ![](images/ferryman.jpg)
 ### centralized _**Ops or QA**_ teams
 
+^ - a likely outcome
+- QA is responsible for testing
+- Ops is responsible for operations
+
 ---
 ![](images/bridge.jpg)
+
+^ - the Netflix DevOps model is like a bridge
+- centralized teams provide the bridge
+- dev teams drive themselves across the river
 
 ---
 ![](images/bridge.jpg)
 ### centralized _**Tools**_ teams
 
-^ teams take ownership of planning their deploy
+^ teams take ownership of deployment
 
 ---
 Centralized teams _**enable**_ product teams
+
+^ the key word here is enable
 
 ---
 _**Engineering**_ Tools
@@ -266,26 +294,44 @@ process allergy
 ---
 ### feedback
 
-^ candor
-fast feedback
+^ - candor
+- fast feedback
+- VP story
 
 ---
 ## Collaborative culture
 ### *(No brilliant jerks)*
 
-^ Strong opinions, weakly held
+---
+### Strong opinions, *weakly held*
+
+^ - the most effective people
+- debate is common
 
 ---
 ## One on Ones
 
 ![left](images/nflx-cr-3.JPG)
 
+^ - 
+
 ---
-_**Managers meet**_ so engineers don't have to
+### Memos
+![right](images/nflx-memo.png)
+
+---
+### When was the last time a
+### [fit] _**high performer**_
+### was let go for being 
+### [fit] _**a jerk**_?
+
+^ everybody knows at least one
 
 ---
 ### Waste
 ![](images/nflx-hq-2.JPG)
+
+^ other forms of waste that might be familiar
 
 ---
 ## Eliminate waste
@@ -335,6 +381,11 @@ _**Managers meet**_ so engineers don't have to
 ---
 ### Use _**process**_ to solve problems, 
 ### then abandon it
+
+---
+### _**high performing teams**_ 
+### over 
+### _**high performing jerks**_
 
 ---
 ### Innovation generates _**waste**_
