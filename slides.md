@@ -13,7 +13,7 @@ slidenumbers: false
 ### two years ago...
 
 ---
-## Director of DevOps 
+## Director of DevOps
 
 ![fit inline](images/blackboard-learn.jpg)
 
@@ -26,17 +26,17 @@ slidenumbers: false
 ---
 ![](images/nflx-hq.jpg)
 
-^ 
+^
 - got the opportunity of a lifetime
-- joined the Netflix EngTools team 
+- joined the Netflix EngTools team
 
 ---
-## What makes Netflix 
+## What makes Netflix
 ## so special?
 
 ![fit](images/nflx-screen.jpg)
 
-^ 
+^
 - wanted to understand how they work
 - contribute to the famous culture
 - what can I learn about high performing cultures
@@ -83,7 +83,7 @@ slidenumbers: false
 - cultural self-awareness
 
 ---
-### Freedom AND 
+### Freedom AND
 ### Responsibility
 ![](images/nflx-hq-2.JPG)
 
@@ -111,26 +111,26 @@ slidenumbers: false
 
 # Engineering Tools
 
-^ 
+^
 - let's look at an example
 - this also applies to engtools
 
 ---
 ![fit](images/paved-road.png)
 
-^ 
+^
 - self-service
 - we build it, we own it
 - Our Paved Road
 
 ---
-If you want more _**freedom**_, 
+If you want more _**freedom**_,
 you must take on more _**responsibility**_.
 
 ---
-### Do those with 
-## the _**responsibility**_, 
-### also have 
+### Do those with
+## the _**responsibility**_,
+### also have
 ## the _**freedom**_?
 
 ---
@@ -139,13 +139,13 @@ alignment?
 ^ - with so much freedom, who ensures alignment?
 
 ---
-### Context, 
+### Context,
 ### not Control
 
 ![](images/nflx-hq-2.JPG)
 
 ^ - manage through context
-- provide employees the right context 
+- provide employees the right context
 - high trust culture
 
 ---
@@ -188,14 +188,14 @@ we don't
 
 ## provide fast feedback
 
-![right 50%](images/conformity-monkey.png)
+![right fit](images/conformity-monkey.png)
 
 ^ - Conformity Monkey
 
 ---
-### If you give your employees the
+### [fit] If you give your employees the
 ### [fit] _**right business context**_
-### can you trust them to make the 
+### [fit] can you trust them to make the
 ### [fit] _**right decisions**_?
 
 ^ - Not just a Netflix thing
@@ -249,7 +249,7 @@ _**Engineering**_ Tools
 _**Security**_ Engineering
 _**Performance**_ Engineering
 _**Traffic and Chaos**_ Engineering
-_**Insight**_ Engineering 
+_**Insight**_ Engineering
 _**Platform**_ Engineering
 
 ---
@@ -257,9 +257,9 @@ _**Platform**_ Engineering
 ### _**No**_ QA team
 
 ---
-### How coupled are your 
-### [fit] _**centralized teams**_ 
-### to your 
+### How coupled are your
+### [fit] _**centralized teams**_
+### to your
 ### [fit] _**product teams**_?
 
 ---
@@ -313,16 +313,16 @@ process allergy
 
 ![left](images/nflx-cr-3.JPG)
 
-^ - 
+^ -
 
 ---
 ### Memos
-![right](images/nflx-memo.png)
+![fit](images/nflx-memo.png)
 
 ---
 ### When was the last time a
 ### [fit] _**high performer**_
-### was let go for being 
+### was let go for being
 ### [fit] _**a jerk**_?
 
 ^ everybody knows at least one
@@ -352,12 +352,12 @@ process allergy
 
 ---
 ### [fit] _**waste**_
-### is a necessary byproduct of 
+### is a necessary byproduct of
 ### [fit] _**innovation**_
 
 ---
-### [fit] _**How tolerant**_ 
-### is your culture of 
+### [fit] _**How tolerant**_
+### is your culture of
 ### [fit] _**duplicate or throwaway**_
 ### efforts?
 
@@ -366,25 +366,25 @@ process allergy
 ![](images/nflx-hq-2.JPG)
 
 ---
-### Those with _**responsibility**_ 
+### Those with _**responsibility**_
 ### should have the _**freedom**_
 
 ---
-### [fit] High performers will do the _**right thing**_, 
+### [fit] High performers will do the _**right thing**_,
 ### given the _**right context**_
 
 ---
-### Centralized teams 
+### Centralized teams
 ### _**enable**_
 ### product teams
 
 ---
-### Use _**process**_ to solve problems, 
+### Use _**process**_ to solve problems,
 ### then abandon it
 
 ---
-### _**high performing teams**_ 
-### over 
+### _**high performing teams**_
+### over
 ### _**high performing jerks**_
 
 ---
@@ -393,6 +393,6 @@ process allergy
 ---
 # Questions?
 
-### _**Mike McGarr**_ 
+### _**Mike McGarr**_
 ### [@SonOfGarr](http://twitter.com/SonOfGarr)
 ### [MikeMcGarr.com](http://www.mikemcgarr.com)
