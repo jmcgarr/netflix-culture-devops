@@ -1,5 +1,7 @@
 footer: © J. Michael McGarr, 2016
 slidenumbers: false
+build-lists: true
+theme: Ostrich, 3
 
 # [fit] Beyond the culture deck:
 ###  _**What you don't already**_
@@ -10,7 +12,7 @@ slidenumbers: false
 ![](images/nflx-hq-2.JPG)
 
 ---
-### two years ago...
+### three years ago...
 
 ---
 ## Director of DevOps
@@ -116,7 +118,9 @@ slidenumbers: false
 - this also applies to engtools
 
 ---
-![fit](images/paved-road.png)
+# Paved Road
+
+![fit inline](images/paved-road.png)
 
 ^
 - self-service
